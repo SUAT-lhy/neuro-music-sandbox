@@ -1,0 +1,3 @@
+-r requirements-research.txt
+safetensors>=0.4,<1
+# Install the vendor-matched torch / torch_musa separately; do not replace it here.

@@ -1,0 +1,299 @@
+{
+  "decisions": [
+    {
+      "id": "01",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_01.mxl",
+      "replacement_title": "Cuckoo's Nest",
+      "raw_source": "data/raw_scores/nottingham/MIDI/hpps11.mid",
+      "raw_source_sha256": "7dd7fab11a9858e4105876b539c94466c49ebe489a77c6a60eede53e5f933d93",
+      "source_key": "d",
+      "target_key": "d",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "02",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_02.mxl",
+      "replacement_title": "Gilderoy",
+      "raw_source": "data/raw_scores/nottingham/MIDI/hpps15.mid",
+      "raw_source_sha256": "283f3706905938e30a36d2f3a3c8fb023e836f8735154767b4e237d927bfed08",
+      "source_key": "a",
+      "target_key": "d",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "03",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_03.mxl",
+      "replacement_title": "Blodau'r Drain",
+      "raw_source": "data/raw_scores/nottingham/MIDI/waltzes6.mid",
+      "raw_source_sha256": "219065f81ebe2c55fb7c22a13248e248f929f1ab9c735cd09bcef72252ea9ad8",
+      "source_key": "a",
+      "target_key": "g",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "04",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_04.mxl",
+      "replacement_title": "Bobbin Mill Reel",
+      "raw_source": "data/raw_scores/nottingham/MIDI/ashover5.mid",
+      "raw_source_sha256": "b515b34b7c6e779562823380546948c78a21dd1119c848e08dd676b755400b2e",
+      "source_key": "D",
+      "target_key": "C",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "05",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_05.mxl",
+      "replacement_title": "King of the Fairies",
+      "raw_source": "data/raw_scores/nottingham/MIDI/hpps28.mid",
+      "raw_source_sha256": "5f1bec9157ad3e102cede4603cbd9524c1b728fb3ec963153ba51647e2247406",
+      "source_key": "e",
+      "target_key": "a",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "06",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_06.mxl",
+      "replacement_title": "Bonnie Kate",
+      "raw_source": "data/raw_scores/nottingham/MIDI/ashover6.mid",
+      "raw_source_sha256": "a994c329aaa7183456cc14e10c31c87790ce3ef01f75e5b5741f2486ccfc2389",
+      "source_key": "G",
+      "target_key": "D",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "07",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_07.mxl",
+      "replacement_title": "Ffarwel Ir Marian",
+      "raw_source": "data/raw_scores/nottingham/MIDI/waltzes15.mid",
+      "raw_source_sha256": "0dbd259959bbc1d87715c9eb377fcf0da5f9d92fb3dedc5fb1d2560756d2bff6",
+      "source_key": "d",
+      "target_key": "g",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "08",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_08.mxl",
+      "replacement_title": "Close Every Door",
+      "raw_source": "data/raw_scores/nottingham/MIDI/waltzes20.mid",
+      "raw_source_sha256": "e8edf1a64b88f6ecca17c2f08d14a5de7bf44deb1fca5cb08c8d538ec0570e1e",
+      "source_key": "a",
+      "target_key": "e",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "09",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_09.krn"
+    },
+    {
+      "id": "10",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_10.krn"
+    },
+    {
+      "id": "11",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_11.mxl"
+    },
+    {
+      "id": "12",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_12.krn"
+    },
+    {
+      "id": "13",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_13.krn"
+    },
+    {
+      "id": "14",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_14.krn"
+    },
+    {
+      "id": "15",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_15.krn"
+    },
+    {
+      "id": "16",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_16.krn"
+    },
+    {
+      "id": "17",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_17.mxl"
+    },
+    {
+      "id": "18",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_18.krn"
+    },
+    {
+      "id": "19",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_19.mxl"
+    },
+    {
+      "id": "20",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_20.xml"
+    },
+    {
+      "id": "21",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_21.mxl",
+      "replacement_title": "The Chaco Waltz",
+      "raw_source": "data/raw_scores/nottingham/MIDI/ashover9.mid",
+      "raw_source_sha256": "4b5fe9ae6a7c5d4d70fccc4ba7fe0941cd1aa32c551b2151d72da74b8401d114",
+      "source_key": "B-",
+      "target_key": "A-",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "22",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_22.mxl",
+      "replacement_title": "The Poker Party Polka",
+      "raw_source": "data/raw_scores/nottingham/MIDI/reelsm-q71.mid",
+      "raw_source_sha256": "e7ea5b44c64f4f9c09bcdc8008620d0d1cc2299e03fe98c840e1a21eebc5d2bc",
+      "source_key": "g",
+      "target_key": "f",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "23",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_23.mxl"
+    },
+    {
+      "id": "24",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_24.krn"
+    },
+    {
+      "id": "25",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_25.krn"
+    },
+    {
+      "id": "26",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_26.mxl"
+    },
+    {
+      "id": "27",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_27.krn"
+    },
+    {
+      "id": "28",
+      "kind": "synthetic_substitute",
+      "source": "data/raw_scores/substitutes/slot_28.mxl",
+      "replacement_title": "Procedural standard 28",
+      "generator": "prepare_data.synthetic_standard",
+      "target_key": "a",
+      "seed": 2054,
+      "source_url": null
+    },
+    {
+      "id": "29",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_29.krn"
+    },
+    {
+      "id": "30",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_30.mxl",
+      "replacement_title": "Avon Jig",
+      "raw_source": "data/raw_scores/nottingham/MIDI/jigs10.mid",
+      "raw_source_sha256": "228964f81a8df924f40aed14552dd7b817908855868abf576222aed5c60a793c",
+      "source_key": "e",
+      "target_key": "f#",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "31",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_31.mxl"
+    },
+    {
+      "id": "32",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_32.mxl",
+      "replacement_title": "King of the Fairies",
+      "raw_source": "data/raw_scores/nottingham/MIDI/hpps29.mid",
+      "raw_source_sha256": "b455c4bdc5c4945645a5ca4d16cc2dd4c331a23f5595f4ab5645a6b4359e69d3",
+      "source_key": "e",
+      "target_key": "g",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "33",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_33.mxl",
+      "replacement_title": "Puddlegum's Misery",
+      "raw_source": "data/raw_scores/nottingham/MIDI/hpps54.mid",
+      "raw_source_sha256": "1c2d884ab6d011f3fba431c2e9d8f7f41d136dab4372164c696181fe2668da46",
+      "source_key": "a",
+      "target_key": "g",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "34",
+      "kind": "nottingham_substitute",
+      "source": "data/raw_scores/substitutes/slot_34.mxl",
+      "replacement_title": "Cuckoo's Nest",
+      "raw_source": "data/raw_scores/nottingham/MIDI/morris11.mid",
+      "raw_source_sha256": "b54c162eb307ae1917993ddf2254d35725c8fe15d1bfa3fe625ade0ebe3ee724",
+      "source_key": "g",
+      "target_key": "b",
+      "source_url": "https://github.com/jukedeck/nottingham-dataset",
+      "license": "GPL-3.0"
+    },
+    {
+      "id": "35",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_35.mxl"
+    },
+    {
+      "id": "36",
+      "kind": "matched_work",
+      "source": "data/raw_scores/matched_scores/slot_36.mxl"
+    }
+  ],
+  "repositories": {
+    "nottingham": "0992bb6cd864f6d4b90d6663e08c0ef53ffaa08f",
+    "POP909": "d83e6edba6872a704f5d3b8b32f5cb540088dae6",
+    "When-in-Rome": "1c61fe41b8c2910296d7d2bcbf6476c7c1f2fe35"
+  },
+  "baseline_works": 19,
+  "counts": {
+    "matched_work": 21,
+    "nottingham_substitute": 14,
+    "synthetic_substitute": 1
+  },
+  "note": "36 resolved slots do not mean 36 original compositions. Substitutes retain requested-slot identity and explicit provenance."
+}

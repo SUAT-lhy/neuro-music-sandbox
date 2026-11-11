@@ -1,0 +1,445 @@
+{
+  "date": "2026-11-10",
+  "source": "user listening feedback in this chat",
+  "listener_count": 1,
+  "anchors": [
+    {
+      "work_id": "human-v3:01_minor_arpeggio",
+      "midi": "artifacts/buckets_v3/01_minor_arpeggio.mid",
+      "midi_sha256": "23bfb241a73676398516e94124321813bcbab1dcd8ac7d3854153649676b5afd",
+      "human_score": 60,
+      "comment": "和声尚可，音域太小，缺乏起伏高潮",
+      "profile": {
+        "id": "01_minor_arpeggio",
+        "name": "小调慢板 / 分解和弦",
+        "mode": "F# harmonic minor",
+        "tonic": 6,
+        "scale": [
+          0,
+          2,
+          3,
+          5,
+          7,
+          8,
+          11
+        ],
+        "meter": "4/4",
+        "bpm": 72,
+        "register": [
+          61,
+          85
+        ],
+        "base": 66,
+        "texture": "arpeggio",
+        "degrees": [
+          0,
+          3,
+          5,
+          4,
+          0,
+          2,
+          3,
+          4,
+          5,
+          3,
+          4,
+          0
+        ],
+        "motif": [
+          0,
+          2,
+          4,
+          3,
+          1,
+          2,
+          0,
+          -1
+        ],
+        "rhythms": [
+          [
+            0.5,
+            1,
+            0.5,
+            1,
+            1
+          ],
+          [
+            1.5,
+            0.5,
+            -0.5,
+            0.5,
+            1
+          ],
+          [
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            2
+          ],
+          [
+            2,
+            -0.5,
+            0.5,
+            1
+          ]
+        ]
+      },
+      "weight": 50.0,
+      "candidate_id": "01_minor_arpeggio_00"
+    },
+    {
+      "work_id": "human-v3:02_dorian_jig",
+      "midi": "artifacts/buckets_v3/02_dorian_jig.mid",
+      "midi_sha256": "fab080308dfe3e120c60bb7ca3f05d2ee37595e67aec79fa6025e8b9c4343df7",
+      "human_score": 50,
+      "comment": "旋律杂乱，缺乏抓耳动机",
+      "profile": {
+        "id": "02_dorian_jig",
+        "name": "多利亚 / 6拍民谣舞曲",
+        "mode": "D Dorian",
+        "tonic": 2,
+        "scale": [
+          0,
+          2,
+          3,
+          5,
+          7,
+          9,
+          10
+        ],
+        "meter": "6/8",
+        "bpm": 126,
+        "register": [
+          62,
+          83
+        ],
+        "base": 74,
+        "texture": "jig",
+        "degrees": [
+          0,
+          6,
+          0,
+          3,
+          0,
+          2,
+          6,
+          0,
+          3,
+          6,
+          4,
+          0
+        ],
+        "motif": [
+          0,
+          1,
+          2,
+          4,
+          5,
+          4,
+          2,
+          1
+        ],
+        "rhythms": [
+          [
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            0.5
+          ],
+          [
+            1,
+            0.5,
+            0.5,
+            1
+          ],
+          [
+            0.5,
+            0.25,
+            0.25,
+            0.5,
+            0.5,
+            1
+          ],
+          [
+            0.5,
+            1,
+            -0.5,
+            0.5,
+            0.5
+          ]
+        ]
+      },
+      "weight": 50.0,
+      "candidate_id": "02_dorian_jig_07"
+    },
+    {
+      "work_id": "human-v3:03_phrygian_ostinato",
+      "midi": "artifacts/buckets_v3/03_phrygian_ostinato.mid",
+      "midi_sha256": "9131a4a18e4fd04c02f4572698e0e5012d3da1d0df8603ff7a54d787e0ca3abb",
+      "human_score": 40,
+      "comment": "听感近似噪音",
+      "profile": {
+        "id": "03_phrygian_ostinato",
+        "name": "弗里几亚 / 5拍低音型",
+        "mode": "C# Phrygian",
+        "tonic": 1,
+        "scale": [
+          0,
+          1,
+          3,
+          5,
+          7,
+          8,
+          10
+        ],
+        "meter": "5/4",
+        "bpm": 104,
+        "register": [
+          45,
+          69
+        ],
+        "base": 49,
+        "texture": "ostinato",
+        "degrees": [
+          0,
+          1,
+          0,
+          6,
+          0,
+          3,
+          1,
+          0,
+          5,
+          1,
+          6,
+          0
+        ],
+        "motif": [
+          0,
+          1,
+          0,
+          -1,
+          3,
+          2,
+          1,
+          0
+        ],
+        "rhythms": [
+          [
+            1,
+            0.5,
+            0.5,
+            1,
+            1,
+            1
+          ],
+          [
+            1.5,
+            0.5,
+            1,
+            2
+          ],
+          [
+            -0.5,
+            0.5,
+            1,
+            1,
+            0.5,
+            0.5,
+            1
+          ],
+          [
+            0.5,
+            0.5,
+            0.5,
+            0.5,
+            1,
+            2
+          ]
+        ]
+      },
+      "weight": 50.0,
+      "candidate_id": "03_phrygian_ostinato_06"
+    },
+    {
+      "work_id": "human-v3:04_lydian_waltz",
+      "midi": "artifacts/buckets_v3/04_lydian_waltz.mid",
+      "midi_sha256": "de644b4c826e3b54ab9e6367dcc01ff2ccf73dbf15968dd6c5163b1d76a5bab7",
+      "human_score": 70,
+      "comment": "还行，三拍子律动较清晰",
+      "profile": {
+        "id": "04_lydian_waltz",
+        "name": "利底亚 / 高音区圆舞曲",
+        "mode": "F Lydian",
+        "tonic": 5,
+        "scale": [
+          0,
+          2,
+          4,
+          6,
+          7,
+          9,
+          11
+        ],
+        "meter": "3/4",
+        "bpm": 156,
+        "register": [
+          77,
+          98
+        ],
+        "base": 89,
+        "texture": "waltz",
+        "degrees": [
+          0,
+          1,
+          4,
+          0,
+          5,
+          1,
+          3,
+          4,
+          0,
+          2,
+          1,
+          0
+        ],
+        "motif": [
+          0,
+          4,
+          3,
+          2,
+          3,
+          5,
+          4,
+          2
+        ],
+        "rhythms": [
+          [
+            0.5,
+            0.5,
+            1,
+            1
+          ],
+          [
+            1,
+            0.5,
+            0.5,
+            0.5,
+            0.5
+          ],
+          [
+            -0.5,
+            0.5,
+            0.5,
+            0.5,
+            1
+          ],
+          [
+            0.5,
+            0.25,
+            0.25,
+            0.5,
+            0.5,
+            1
+          ]
+        ]
+      },
+      "weight": 50.0,
+      "candidate_id": "04_lydian_waltz_02"
+    },
+    {
+      "work_id": "human-v3:05_bb_major_swing",
+      "midi": "artifacts/buckets_v3/05_bb_major_swing.mid",
+      "midi_sha256": "51577df2c42a998cff8daba4e82b5aa02acb92edad5bb87bea9fff8212b692d8",
+      "human_score": 30,
+      "comment": "听感近似随机噪音",
+      "profile": {
+        "id": "05_bb_major_swing",
+        "name": "降B大调 / 爵士摇摆",
+        "mode": "Bb major",
+        "tonic": 10,
+        "scale": [
+          0,
+          2,
+          4,
+          5,
+          7,
+          9,
+          11
+        ],
+        "meter": "4/4",
+        "bpm": 116,
+        "register": [
+          58,
+          82
+        ],
+        "base": 70,
+        "texture": "swing",
+        "degrees": [
+          0,
+          0,
+          3,
+          0,
+          4,
+          3,
+          0,
+          6,
+          3,
+          4,
+          6,
+          0
+        ],
+        "motif": [
+          2,
+          4,
+          5,
+          4,
+          6,
+          5,
+          2,
+          0
+        ],
+        "rhythms": [
+          [
+            0.6666666666666666,
+            0.3333333333333333,
+            1,
+            0.6666666666666666,
+            0.3333333333333333,
+            1
+          ],
+          [
+            -0.3333333333333333,
+            0.6666666666666666,
+            1,
+            0.3333333333333333,
+            0.6666666666666666,
+            1
+          ],
+          [
+            1,
+            0.6666666666666666,
+            0.3333333333333333,
+            -0.6666666666666666,
+            0.3333333333333333,
+            1
+          ],
+          [
+            0.6666666666666666,
+            0.3333333333333333,
+            0.6666666666666666,
+            0.3333333333333333,
+            2
+          ]
+        ]
+      },
+      "weight": 50.0,
+      "candidate_id": "05_bb_major_swing_04"
+    }
+  ],
+  "note": "Five subjective ratings; not an independent controlled validation study.",
+  "preview_context": "Ratings were given on the v3 additive renderer, which quantized MIDI on import; v4 preview/scoring disables that quantization."
+}

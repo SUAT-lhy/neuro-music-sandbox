@@ -1,0 +1,12 @@
+{
+  "source": "user",
+  "preferred_reference": "artifacts/romantic_v5c/04_e_minor_octave_dusk.wav",
+  "secondary_reference": "artifacts/romantic_v5c/03_f_major_cantabile.wav",
+  "preferences": [
+    "保留E小调节奏感",
+    "吸收F大调舒展长音",
+    "每首主旋律明显不同，不能仅移调或换几个音",
+    "直接试听，不反复跑测试"
+  ],
+  "numeric_scores": null
+}

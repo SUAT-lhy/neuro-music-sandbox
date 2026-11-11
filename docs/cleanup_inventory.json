@@ -1,0 +1,612 @@
+{
+  "date": "2026-11-11",
+  "workspace": "神经科学沙盒仿真",
+  "old_entries": [
+    {
+      "name": ".gitignore",
+      "files": 1,
+      "bytes": 48
+    },
+    {
+      "name": ".venv",
+      "files": 18709,
+      "bytes": 447317103
+    },
+    {
+      "name": "align-local.log",
+      "files": 1,
+      "bytes": 4421
+    },
+    {
+      "name": "artifacts",
+      "files": 731,
+      "bytes": 448603424
+    },
+    {
+      "name": "audio-python-install.log",
+      "files": 1,
+      "bytes": 1508
+    },
+    {
+      "name": "blueprint_reference.py",
+      "files": 1,
+      "bytes": 22042
+    },
+    {
+      "name": "check_diversity.py",
+      "files": 1,
+      "bytes": 2091
+    },
+    {
+      "name": "cloud-results",
+      "files": 136,
+      "bytes": 732354
+    },
+    {
+      "name": "cloud-source.tar.gz",
+      "files": 1,
+      "bytes": 42336175
+    },
+    {
+      "name": "cloud-training.tar.gz",
+      "files": 1,
+      "bytes": 646214
+    },
+    {
+      "name": "cloud-upgrade",
+      "files": 133,
+      "bytes": 1630656
+    },
+    {
+      "name": "cloud-v4",
+      "files": 149,
+      "bytes": 1799911
+    },
+    {
+      "name": "cloud-v5",
+      "files": 61,
+      "bytes": 12455929
+    },
+    {
+      "name": "cloud-v5-final",
+      "files": 12,
+      "bytes": 1033662
+    },
+    {
+      "name": "cloud-v5-latest",
+      "files": 62,
+      "bytes": 15752778
+    },
+    {
+      "name": "cloud.py",
+      "files": 1,
+      "bytes": 1831
+    },
+    {
+      "name": "constraints-cloud.txt",
+      "files": 1,
+      "bytes": 118
+    },
+    {
+      "name": "corpus_templates.py",
+      "files": 1,
+      "bytes": 4118
+    },
+    {
+      "name": "critic_v4.py",
+      "files": 1,
+      "bytes": 3361
+    },
+    {
+      "name": "data",
+      "files": 11920,
+      "bytes": 263043647
+    },
+    {
+      "name": "devices.py",
+      "files": 1,
+      "bytes": 1666
+    },
+    {
+      "name": "diversity_metrics.py",
+      "files": 1,
+      "bytes": 5473
+    },
+    {
+      "name": "evaluate_baseline.py",
+      "files": 1,
+      "bytes": 2312
+    },
+    {
+      "name": "evaluate_upgrade.py",
+      "files": 1,
+      "bytes": 2205
+    },
+    {
+      "name": "finalize_v5.py",
+      "files": 1,
+      "bytes": 4272
+    },
+    {
+      "name": "french_critic_v5.py",
+      "files": 1,
+      "bytes": 7879
+    },
+    {
+      "name": "generate.py",
+      "files": 1,
+      "bytes": 3977
+    },
+    {
+      "name": "generate_buckets.py",
+      "files": 1,
+      "bytes": 10057
+    },
+    {
+      "name": "generate_diverse.py",
+      "files": 1,
+      "bytes": 7432
+    },
+    {
+      "name": "generate_romantic_v6.py",
+      "files": 1,
+      "bytes": 5576
+    },
+    {
+      "name": "generate_romantic_v7.py",
+      "files": 1,
+      "bytes": 2357
+    },
+    {
+      "name": "generate_romantic_v7r.py",
+      "files": 1,
+      "bytes": 2140
+    },
+    {
+      "name": "generate_v4.py",
+      "files": 1,
+      "bytes": 14857
+    },
+    {
+      "name": "generate_v5.py",
+      "files": 1,
+      "bytes": 4177
+    },
+    {
+      "name": "generate_v5b.py",
+      "files": 1,
+      "bytes": 5810
+    },
+    {
+      "name": "golden_slices_manifest.json",
+      "files": 1,
+      "bytes": 35327
+    },
+    {
+      "name": "install-local.log",
+      "files": 1,
+      "bytes": 7672
+    },
+    {
+      "name": "light-short-audio.tar.gz",
+      "files": 1,
+      "bytes": 1678285
+    },
+    {
+      "name": "light-short-source.tar.gz",
+      "files": 1,
+      "bytes": 4610
+    },
+    {
+      "name": "load36.log",
+      "files": 1,
+      "bytes": 888
+    },
+    {
+      "name": "load_golden_midi.py",
+      "files": 1,
+      "bytes": 5918
+    },
+    {
+      "name": "make_cloud_bundle.py",
+      "files": 1,
+      "bytes": 2702
+    },
+    {
+      "name": "manifest_original_sources.json",
+      "files": 1,
+      "bytes": 21167
+    },
+    {
+      "name": "midi_io.py",
+      "files": 1,
+      "bytes": 214
+    },
+    {
+      "name": "music_descriptors.py",
+      "files": 1,
+      "bytes": 2889
+    },
+    {
+      "name": "neuro_sandbox_critic.py",
+      "files": 1,
+      "bytes": 14151
+    },
+    {
+      "name": "piano_render_v5.py",
+      "files": 1,
+      "bytes": 4704
+    },
+    {
+      "name": "plot_diagnostics.py",
+      "files": 1,
+      "bytes": 1388
+    },
+    {
+      "name": "pop909.py",
+      "files": 1,
+      "bytes": 3280
+    },
+    {
+      "name": "prepare-data.log",
+      "files": 1,
+      "bytes": 78
+    },
+    {
+      "name": "prepare_data.py",
+      "files": 1,
+      "bytes": 9786
+    },
+    {
+      "name": "probe_v4.py",
+      "files": 1,
+      "bytes": 1193
+    },
+    {
+      "name": "README.md",
+      "files": 1,
+      "bytes": 19815
+    },
+    {
+      "name": "refine_romantic_v10.py",
+      "files": 1,
+      "bytes": 6148
+    },
+    {
+      "name": "refine_romantic_v8.py",
+      "files": 1,
+      "bytes": 8963
+    },
+    {
+      "name": "refine_romantic_v9.py",
+      "files": 1,
+      "bytes": 3362
+    },
+    {
+      "name": "render_preview.py",
+      "files": 1,
+      "bytes": 2319
+    },
+    {
+      "name": "render_romantic_v10.py",
+      "files": 1,
+      "bytes": 415
+    },
+    {
+      "name": "render_romantic_v6.py",
+      "files": 1,
+      "bytes": 413
+    },
+    {
+      "name": "render_romantic_v7.py",
+      "files": 1,
+      "bytes": 413
+    },
+    {
+      "name": "render_romantic_v7r.py",
+      "files": 1,
+      "bytes": 415
+    },
+    {
+      "name": "render_romantic_v8.py",
+      "files": 1,
+      "bytes": 413
+    },
+    {
+      "name": "render_romantic_v9.py",
+      "files": 1,
+      "bytes": 413
+    },
+    {
+      "name": "render_v5b.py",
+      "files": 1,
+      "bytes": 510
+    },
+    {
+      "name": "render_v5c.py",
+      "files": 1,
+      "bytes": 415
+    },
+    {
+      "name": "requirements-audio.txt",
+      "files": 1,
+      "bytes": 32
+    },
+    {
+      "name": "requirements.txt",
+      "files": 1,
+      "bytes": 164
+    },
+    {
+      "name": "reselect_v4.py",
+      "files": 1,
+      "bytes": 2135
+    },
+    {
+      "name": "results-cloud.tar.gz",
+      "files": 1,
+      "bytes": 148877
+    },
+    {
+      "name": "revise_v5c.py",
+      "files": 1,
+      "bytes": 2988
+    },
+    {
+      "name": "romantic_v5.py",
+      "files": 1,
+      "bytes": 14078
+    },
+    {
+      "name": "run_cloud.sh",
+      "files": 1,
+      "bytes": 159
+    },
+    {
+      "name": "run_upgrade.sh",
+      "files": 1,
+      "bytes": 658
+    },
+    {
+      "name": "run_v4.sh",
+      "files": 1,
+      "bytes": 488
+    },
+    {
+      "name": "run_v5.sh",
+      "files": 1,
+      "bytes": 502
+    },
+    {
+      "name": "shorten_light_return.py",
+      "files": 1,
+      "bytes": 3695
+    },
+    {
+      "name": "summarize_upgrade.py",
+      "files": 1,
+      "bytes": 3346
+    },
+    {
+      "name": "templates-v3.log",
+      "files": 1,
+      "bytes": 201
+    },
+    {
+      "name": "test_buckets.py",
+      "files": 1,
+      "bytes": 4335
+    },
+    {
+      "name": "test_critic.py",
+      "files": 1,
+      "bytes": 4203
+    },
+    {
+      "name": "test_diverse.py",
+      "files": 1,
+      "bytes": 1567
+    },
+    {
+      "name": "test_v4.py",
+      "files": 1,
+      "bytes": 3928
+    },
+    {
+      "name": "test_v5.py",
+      "files": 1,
+      "bytes": 3434
+    },
+    {
+      "name": "train-local.log",
+      "files": 1,
+      "bytes": 232
+    },
+    {
+      "name": "train.py",
+      "files": 1,
+      "bytes": 5299
+    },
+    {
+      "name": "training_result.json",
+      "files": 1,
+      "bytes": 782
+    },
+    {
+      "name": "train_neural.py",
+      "files": 1,
+      "bytes": 3949
+    },
+    {
+      "name": "train_v4.py",
+      "files": 1,
+      "bytes": 7832
+    },
+    {
+      "name": "upgrade-delivery.tar.gz",
+      "files": 1,
+      "bytes": 159147
+    },
+    {
+      "name": "upgrade-final-source.tar.gz",
+      "files": 1,
+      "bytes": 73902
+    },
+    {
+      "name": "upgrade-source.tar.gz",
+      "files": 1,
+      "bytes": 49860
+    },
+    {
+      "name": "v10-audio.tar.gz",
+      "files": 1,
+      "bytes": 7595650
+    },
+    {
+      "name": "v10-source.tar.gz",
+      "files": 1,
+      "bytes": 13583
+    },
+    {
+      "name": "v4-delivery.tar.gz",
+      "files": 1,
+      "bytes": 237970
+    },
+    {
+      "name": "v4-final-source.tar.gz",
+      "files": 1,
+      "bytes": 64370
+    },
+    {
+      "name": "v4-source.tar.gz",
+      "files": 1,
+      "bytes": 65424
+    },
+    {
+      "name": "v5-delivery.tar.gz",
+      "files": 1,
+      "bytes": 14604534
+    },
+    {
+      "name": "v5-final-metadata.tar.gz",
+      "files": 1,
+      "bytes": 64502
+    },
+    {
+      "name": "v5-final-source.tar.gz",
+      "files": 1,
+      "bytes": 77151
+    },
+    {
+      "name": "v5-local.log",
+      "files": 1,
+      "bytes": 1460
+    },
+    {
+      "name": "v5-source.tar.gz",
+      "files": 1,
+      "bytes": 11499
+    },
+    {
+      "name": "v5b-audio.tar.gz",
+      "files": 1,
+      "bytes": 14677589
+    },
+    {
+      "name": "v5b-source.tar.gz",
+      "files": 1,
+      "bytes": 28986
+    },
+    {
+      "name": "v5c-audio.tar.gz",
+      "files": 1,
+      "bytes": 5827217
+    },
+    {
+      "name": "v5c-source.tar.gz",
+      "files": 1,
+      "bytes": 12296
+    },
+    {
+      "name": "v6-audio.tar.gz",
+      "files": 1,
+      "bytes": 11609164
+    },
+    {
+      "name": "v6-source.tar.gz",
+      "files": 1,
+      "bytes": 23692
+    },
+    {
+      "name": "v7-audio.tar.gz",
+      "files": 1,
+      "bytes": 8856625
+    },
+    {
+      "name": "v7-source.tar.gz",
+      "files": 1,
+      "bytes": 19233
+    },
+    {
+      "name": "v7r-audio.tar.gz",
+      "files": 1,
+      "bytes": 9043629
+    },
+    {
+      "name": "v7r-source.tar.gz",
+      "files": 1,
+      "bytes": 17673
+    },
+    {
+      "name": "v8-audio.tar.gz",
+      "files": 1,
+      "bytes": 10706309
+    },
+    {
+      "name": "v8-source.tar.gz",
+      "files": 1,
+      "bytes": 18530
+    },
+    {
+      "name": "v9-audio.tar.gz",
+      "files": 1,
+      "bytes": 10693338
+    },
+    {
+      "name": "v9-source.tar.gz",
+      "files": 1,
+      "bytes": 17004
+    },
+    {
+      "name": "validate_v4.py",
+      "files": 1,
+      "bytes": 3259
+    },
+    {
+      "name": "voice_rules.py",
+      "files": 1,
+      "bytes": 4815
+    },
+    {
+      "name": "__pycache__",
+      "files": 36,
+      "bytes": 380634
+    },
+    {
+      "name": "可尝试的agent指令.md",
+      "files": 1,
+      "bytes": 36549
+    },
+    {
+      "name": "神经沙盒idea.md",
+      "files": 1,
+      "bytes": 35852
+    },
+    {
+      "name": "训练卡兼容性考虑.md",
+      "files": 1,
+      "bytes": 6344
+    }
+  ],
+  "scope": "All listed old entries removed after curated files verified; source materials, final music, model features/checkpoints copied into new layout."
+}

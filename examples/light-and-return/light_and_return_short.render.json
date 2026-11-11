@@ -1,0 +1,25 @@
+{
+  "engine": "FluidSynth",
+  "soundfont": "FluidR3_GM.sf2",
+  "soundfont_sha256": "74594e8f4250680adf590507a306655a299935343583256f3b722c48a1bc1cb0",
+  "program": "Acoustic Grand Piano (GM program 0)",
+  "sample_rate": 22050,
+  "channels": 2,
+  "seconds": 32.88235827664399,
+  "peak": 0.8800048828125,
+  "rms": 0.1132591848979359,
+  "clipped_sample_fraction": 0.0,
+  "gain": 0.45,
+  "reverb_enabled": true,
+  "reverb_settings": {
+    "room_size": 0.48,
+    "damping": 0.42,
+    "width": 0.65,
+    "level": 0.23
+  },
+  "raw_peak": 0.12384033203125,
+  "master_gain": 7.105924100542139,
+  "master_gain_db": 17.03241128825119,
+  "mastering": "constant gain only; no compressor, limiter or change to relative dynamics",
+  "pedal": "CC64 interpreted directly by the synthesizer; MIDI not imported or quantized by music21"
+}

@@ -1,0 +1,282 @@
+{
+  "date": "2026-11-11",
+  "retained_music": "灯火归来（短版）",
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 156,
+      "sha256": "9b341f400b5d306678b2599782555ff3b264d8c81e20cdab0f5e1904985faacf"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 130,
+      "sha256": "542d3dca6f55c0aeb466cd6da147d854832ee12fc0126f9fdab4e2766a99cc75"
+    },
+    {
+      "path": "artifacts/neural/critic_mlp.safetensors",
+      "bytes": 4564,
+      "sha256": "a19a38b8ff03b402dfa7e181ad066447370effb78e6a25fec9ae8a04ab27db02"
+    },
+    {
+      "path": "artifacts/neural/report.json",
+      "bytes": 1383,
+      "sha256": "b3c1730b572ec4580e68d8c2e67782d63a50221e4a2e057009f20503ee2c2ab8"
+    },
+    {
+      "path": "artifacts/training_v4/calibration_report.json",
+      "bytes": 11036,
+      "sha256": "94376575ae6540849182062a5971de17862bb703eaf4f2a70d23f3faf216c71f"
+    },
+    {
+      "path": "artifacts/training_v4/critic_model.pkl",
+      "bytes": 259638,
+      "sha256": "6e277a1ecf04e64e1c8e4f81445d6ee8eeb6edeb583d8b349f166985b96d36ec"
+    },
+    {
+      "path": "artifacts/training_v4/technical_model.pkl",
+      "bytes": 256758,
+      "sha256": "ed04b206685bf9108073ebf98ba5a09a45ac5da22bff754951061508533bf680"
+    },
+    {
+      "path": "artifacts/training_v4/training_features.npz",
+      "bytes": 75654,
+      "sha256": "6c3fed629348166f6d1208c7994853c8ade6e51ade3f50e307d4258eded1da8c"
+    },
+    {
+      "path": "data/feedback/human_preferences_v4.json",
+      "bytes": 8946,
+      "sha256": "890c5b1d243223946bc3d354c60fc79ee031313d6f5d5ea28da25ebf5a9d86ca"
+    },
+    {
+      "path": "data/feedback/light_return_short_request.json",
+      "bytes": 194,
+      "sha256": "fcad870bfb9408d61056f2441adc43c874f07df22ffab31935397e9ad04858d6"
+    },
+    {
+      "path": "data/feedback/v4_qualitative_feedback_for_v5.json",
+      "bytes": 679,
+      "sha256": "c79337fd7b98c30219c454f45558464e562d06ff55c8d8376d46e19f25fc9685"
+    },
+    {
+      "path": "data/feedback/v5_qualitative_feedback_for_v5b.json",
+      "bytes": 677,
+      "sha256": "45be6d571b2bcf39f252fd959961279497e5b7ad73f1d939c90d5e0bf0295dd0"
+    },
+    {
+      "path": "data/feedback/v5b_qualitative_feedback.json",
+      "bytes": 347,
+      "sha256": "90ced56bb5d183533f5a46aab2fc815c3c74fb212f04e060e395d27386155df1"
+    },
+    {
+      "path": "data/feedback/v6_direction.json",
+      "bytes": 408,
+      "sha256": "593a09999aa0b93ebdb90fcc0c1aabc4ca27fb635662d9d06d8884c8ec10310f"
+    },
+    {
+      "path": "data/feedback/v6_listening_feedback.json",
+      "bytes": 299,
+      "sha256": "a11b5690ebdd2aec4bb293252e9bfc4504589c927079cf7fcfcc4ea21e082bfe"
+    },
+    {
+      "path": "data/feedback/v7_listening_feedback.json",
+      "bytes": 380,
+      "sha256": "b190db35daeee85b008c2a31990b6b8dd9421cdcb87011c03368eb58e063afc3"
+    },
+    {
+      "path": "data/feedback/v7r_listening_feedback.json",
+      "bytes": 568,
+      "sha256": "73e3d71d94c5bac644dd002611f7f0b183e7065353abd23a91a6cb14e8a348a6"
+    },
+    {
+      "path": "data/feedback/v8_listening_feedback.json",
+      "bytes": 371,
+      "sha256": "c19c05593ac7cb7fdc9cffb33cd67affdad11d47a1f179e047c80de40aa10528"
+    },
+    {
+      "path": "data/feedback/v9_listening_feedback.json",
+      "bytes": 361,
+      "sha256": "761dac1cfd3cf7f68bfcc0f8ac7806a26f29d2e51c64616088bcd18e7c51a6a4"
+    },
+    {
+      "path": "docs/CLEANUP.md",
+      "bytes": 1511,
+      "sha256": "8bee6596ba9d25322456fec3d18b7d8ec6ad6570c58f48c00e4813b7d7a78697"
+    },
+    {
+      "path": "docs/cleanup_inventory.json",
+      "bytes": 11332,
+      "sha256": "d8b1e0629df2d29ef61c67be5ba208a072583af8497ec671d0ac96e4f43e4bf4"
+    },
+    {
+      "path": "docs/DATA_AND_CREDITS.md",
+      "bytes": 1663,
+      "sha256": "492190a18c58c4b35b2baf431069865f23ad9529d865136d8cee8ba9fc09bec4"
+    },
+    {
+      "path": "docs/EVOLUTION.md",
+      "bytes": 1608,
+      "sha256": "fbcd6c458b9d43dd19ac3b9c2d72b5759ff13b9a3a29b0cbd193f254476d80e0"
+    },
+    {
+      "path": "docs/IDEA.md",
+      "bytes": 1980,
+      "sha256": "4d463d3606758fd3207e2ec1c56359ef3e70d78fc6cbf600d7eead55cfd5ad05"
+    },
+    {
+      "path": "docs/original/可尝试的agent指令.md",
+      "bytes": 36549,
+      "sha256": "31806d38b2efbe60dbc05cd6f0ceeef29a19949724c49109f3ba68d489832471"
+    },
+    {
+      "path": "docs/original/神经沙盒idea.md",
+      "bytes": 35852,
+      "sha256": "adc07f04c0be02245c545df87d230e3b6b0c77ca344f67ae03342807f8d6823f"
+    },
+    {
+      "path": "docs/original/训练卡兼容性考虑.md",
+      "bytes": 6344,
+      "sha256": "9bb1880d7c47649913e6bba92d89fdca59e68135b5e9272574e0972e3f9d6856"
+    },
+    {
+      "path": "docs/provenance/data_audit.json",
+      "bytes": 54005,
+      "sha256": "00bd2f5a717cc68653ebf0e19c840ec78cca1389ee4952b3ad6c9b802d3ddb08"
+    },
+    {
+      "path": "docs/provenance/golden_slices_manifest.json",
+      "bytes": 35327,
+      "sha256": "9c65864454799c9552ed0d47e8986f94395d66c4ce62db493c90bda417ae77a1"
+    },
+    {
+      "path": "docs/provenance/manifest_original_sources.json",
+      "bytes": 21167,
+      "sha256": "5e313321a4ebca5700330a70fb71db86c12b6eb8ec8a5ac5f5e1d601ed6855a5"
+    },
+    {
+      "path": "docs/provenance/preparation_report.json",
+      "bytes": 10446,
+      "sha256": "5a903be0928601d0c16bc6933a64d955f60ad66a3a30f14e8ad9bf3c99d36643"
+    },
+    {
+      "path": "docs/third_party/FluidR3_GM_COPYRIGHT.txt",
+      "bytes": 2132,
+      "sha256": "f2f5e6358fc7c1fe62aafc6c8229c4c5898e5afb0d4ce1322b15362a8cbd600e"
+    },
+    {
+      "path": "docs/TRAINING.md",
+      "bytes": 2041,
+      "sha256": "83a90182a6e5fd8fb11e6803ca1bfcdd0bcff1c4b68780cf48fbb6d2bd03cc12"
+    },
+    {
+      "path": "examples/light-and-return/light_and_return_short.mid",
+      "bytes": 2025,
+      "sha256": "fbb38501a87d716afc737653aac3b5ef6e3794efd133338029fb3fc6cade0a89"
+    },
+    {
+      "path": "examples/light-and-return/light_and_return_short.render.json",
+      "bytes": 842,
+      "sha256": "43a769f1b38329019a82acf7ec6a92f4d4964865623f9cf9a099103ae2e92652"
+    },
+    {
+      "path": "examples/light-and-return/light_and_return_short.wav",
+      "bytes": 2900268,
+      "sha256": "ba01dbec41c3628cb4e254c5f85ac0eebf5e6b9e9929686e72ccda9ca8e7d8d4"
+    },
+    {
+      "path": "piano/__init__.py",
+      "bytes": 65,
+      "sha256": "fc223507194e10c1427484af4df5ef341ef1185e8a67a6b303d785fae06441dd"
+    },
+    {
+      "path": "piano/export.py",
+      "bytes": 1103,
+      "sha256": "a685e3e4b3981acf0cb8f0182769d5cc12e66b70e51567621d45ec3862fae5db"
+    },
+    {
+      "path": "piano/midi.py",
+      "bytes": 2888,
+      "sha256": "cc4217d329913dd1d85d997e210ee1235d3fbef6b3275e56a3deb9b271900b12"
+    },
+    {
+      "path": "piano/render.py",
+      "bytes": 2720,
+      "sha256": "7abaf5e017a8109a64e83aca5e4154123c80cb3889ac8eea9f55bf8145bd6c9a"
+    },
+    {
+      "path": "piano/score.json",
+      "bytes": 36563,
+      "sha256": "20e617a585ff83b2d447f0de3356a258aab0552250b83b73ee4c2f0b4324b769"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4695,
+      "sha256": "a4aac91cb8ba1a2879f7bcf4aec96d4f515dc56bd479358c39525b9b167fc721"
+    },
+    {
+      "path": "requirements-models.txt",
+      "bytes": 120,
+      "sha256": "5ab41f3930b8749dadaaf041c07b0434a8371248e7b746fe29c8e39c1e4150ea"
+    },
+    {
+      "path": "requirements-neural.txt",
+      "bytes": 133,
+      "sha256": "62d6b8c63908cdf223134ae7c107a0f308878cd9e5cd1758218cd497e6ccff89"
+    },
+    {
+      "path": "requirements-research.txt",
+      "bytes": 80,
+      "sha256": "f62b2c5c01b9e4d1d04586e3909acac28e7d9070514642a9ea45eb96b0add005"
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 47,
+      "sha256": "857e33babef8e27844f7f541f6937910a98eb39c87e09ad8b9edb2ae3c267066"
+    },
+    {
+      "path": "research/blueprint_reference.py",
+      "bytes": 22042,
+      "sha256": "3397f1d195382273e2e31abe4adb4cd0ccd39031e2cfaaf603338901aa915519"
+    },
+    {
+      "path": "research/critic_v4.py",
+      "bytes": 3361,
+      "sha256": "3583f8d7abc65a5949b3fa3e15d01db3a3877c1df0d15c2d3058c2d080c2709e"
+    },
+    {
+      "path": "research/devices.py",
+      "bytes": 1666,
+      "sha256": "ccf52ef118f0c18d71bef82e047b6f57ed27c3e6ba3efa76d34e918e8853c5e6"
+    },
+    {
+      "path": "research/midi_io.py",
+      "bytes": 214,
+      "sha256": "7baf468216844861f899f1bff5f532a115876f0d9e13c777171d69dd4f3948ae"
+    },
+    {
+      "path": "research/music_descriptors.py",
+      "bytes": 2889,
+      "sha256": "ffcbdcacad34dfbed34b7b563c259a0405c8b4146f64364212717fe21c0ac262"
+    },
+    {
+      "path": "research/neuro_sandbox_critic.py",
+      "bytes": 14151,
+      "sha256": "76d823ded70900b16e1f42521d4945e061bbfc8c4aae66a9eade6b434fe9777a"
+    },
+    {
+      "path": "research/train.py",
+      "bytes": 1880,
+      "sha256": "c36d9270687db8530fff6ed74d136b0a0ce48172ba5f1a1fe8941afea89436e7"
+    },
+    {
+      "path": "research/train_neural.py",
+      "bytes": 2817,
+      "sha256": "79582428a287f01f1f1d08c3c5aec19e08cd1849bb6b64a28911521a64e84b43"
+    },
+    {
+      "path": "research/voice_rules.py",
+      "bytes": 4815,
+      "sha256": "d737ae38f17ace9fd9be583c07c93c0519d8e8eba9459a5b1f74a22426f1625b"
+    }
+  ],
+  "note": "Final WAV/MIDI are byte-for-byte copies of the last delivered version; history training data are numeric features only."
+}

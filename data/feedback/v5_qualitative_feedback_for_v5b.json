@@ -1,0 +1,11 @@
+{
+  "version": "v5",
+  "source": "user listening comments",
+  "ratings": null,
+  "comments": {
+    "01_g_minor_warm_bflat": "前2个小节还可，后面不行",
+    "02_a_minor_falling_leaves": "前2个小节还可，后面不行"
+  },
+  "global": "几个曲子旋律节奏完全雷同；只要求法式浪漫钢琴小品，不要求和秋日私语一样。保留回音装饰、下行模进和十度十六分流水琶音，主旋律必须改变。每次生成不要反复测试，先听旋律。",
+  "revision": "v5b: preserve accepted opening bars in tracks1/2, individually compose subsequent phrases and all other lead melodies; no training or regression suite"
+}

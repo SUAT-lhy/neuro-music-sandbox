@@ -99,8 +99,8 @@
     },
     {
       "path": "docs/CLEANUP.md",
-      "bytes": 1611,
-      "sha256": "e576b529f50b908dbdcdf621e0465e94e0453b8fb4b5153bbd228fd03f7cfbee"
+      "bytes": 1579,
+      "sha256": "173e6bab75248b6124c2ab2d46ea1a0d0460a736cee5735817396736f98bc26f"
     },
     {
       "path": "docs/cleanup_inventory.json",
